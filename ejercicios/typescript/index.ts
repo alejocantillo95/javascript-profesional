@@ -18,5 +18,5 @@ function fullName(firstName: string, lastName: string = 'Smith'): string {
   return `${firstName} ${lastName}`;
 }
 
-const richard = fullName('Agente');
-console.log(richard);
+const alejandro = fullName('Agente');
+console.log(alejandro);
